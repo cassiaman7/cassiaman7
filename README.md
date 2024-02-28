@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @cassiaman7
-- 👀 I’m interested in coding and money
-- 🌱 I’m currently learning about Doris/Strategy of stock trading
+- 👀 I’m interested in coding/quantify trading/calligraphy
+- 🌱 I’m currently learning about quantify trading/CFA
 - 💞️ I’m looking to collaborate on tools of DBMS(for example MySQL/Postgres etc)
-- 📫 How to reach me. cassiaman@163.com
+- 📫 How to reach me. cassiaman@163.com.
+
+  The flollowing topics/repos are what I like:
+  - Database Tools:
+    - [gh-ost](https://github.com/github/gh-ost): A triggerless online schema migration solution for MySQL.
+  - Data Visualization
+    - [go-echarts](https://github.com/go-echarts/go-echarts): For data visualization in Golang.
+  - LLM
+    - [ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
+
 
 <!---
 cassiaman7/cassiaman7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
