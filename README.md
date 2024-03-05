@@ -1,9 +1,9 @@
+# Hi, I’m @cassiaman7
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cassiaman7&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400" />
 
-- 👋 Hi, I’m @cassiaman7
-- 👀 I’m interested in coding/quantify trading/calligraphy
-- 🌱 I’m currently learning about quantify trading/CFA
-- 💞️ I’m looking to collaborate on tools of DBMS(for example MySQL/Postgres etc)
+- 👀 I’m interested in coding/quantify trading/calligraphy.
+- 💞️ I’m developing a proj : [split-exec](https://github.com/cassiaman7/split-exec), welcome to star or fork
 - 📫 How to reach me. cassiaman@163.com.
 
   The flollowing topics/repos are what I like:
