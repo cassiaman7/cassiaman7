@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cassiaman7&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400" />
+
 - 👋 Hi, I’m @cassiaman7
 - 👀 I’m interested in coding/quantify trading/calligraphy
 - 🌱 I’m currently learning about quantify trading/CFA
